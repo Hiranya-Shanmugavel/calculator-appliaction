@@ -2,6 +2,7 @@
 
 while true
 do
+echo "Hello! Hi"
 echo "----------------------------"
 echo " SIMPLE CALCULATOR"
 echo "----------------------------"
