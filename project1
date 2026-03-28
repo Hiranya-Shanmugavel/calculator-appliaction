@@ -2,7 +2,7 @@
 
 while true
 do
-echo "Hello! Hi"
+echo "Hello! Hi everyone"
 echo "----------------------------"
 echo " SIMPLE CALCULATOR"
 echo "----------------------------"
